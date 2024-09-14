@@ -1,0 +1,29 @@
+h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: center;
+    background-color: bisque;
+    color:red;
+}
+h2{
+    font-size: 30px;
+    color:purple;
+}
+img{
+    height: 300px;
+    border-radius: 200px;
+}
+.about{
+    background-color: rgba(182, 23, 23, 0.163);
+    display: flex;
+}
+p{
+    font-size: 20px;
+    color:gray;
+}
+.skills ,.project ,.contact{
+    font-weight: bolder;
+    color: blue;
+    background-color: aquamarine;
+}

@@ -1,0 +1,48 @@
+a img{
+  height: 30px;
+  border-radius: 10px;
+  vertical-align: middle;
+  
+}
+.links{
+    display: flex;
+    gap: 10px;
+    background-color:gray;
+    height: 30px;
+    
+
+}
+h2{
+    margin: 0px;
+    padding: 0px;
+    color: white;
+}
+#coach{
+    min-width:750px;
+    
+}
+.service{
+   background-color: gray;
+   color:blue;
+   font-weight: bolder;
+   font-size: 20px;
+   font-style: italic;
+}
+p{
+    font-weight: bolder;
+   font-size: 20px;
+   font-style: italic;
+}
+.about{
+    background-color: yellow;
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+
+}
+.se{
+    background-color:rebeccapurple;
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+}
